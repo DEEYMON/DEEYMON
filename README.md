@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<figure><embed src="https://wakatime.com/share/@f24a898b-230e-4771-8d68-71877c64feb1/4091cfde-f7f8-4ee3-bb8e-7bb215c53ea3.svg"></embed></figure>
+
 <!--
 **DEEYMON/DEEYMON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
